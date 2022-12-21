@@ -1,5 +1,5 @@
 # DaubechiesSim
-Generate the Holder functions using the "DaubechiesSim" package.
+Generate the $\rm H\ddot{o}lder$ functions using the "DaubechiesSim" package.
 
 ## Setup
 Use the following command in R to install the "DaubechiesSim" package:
